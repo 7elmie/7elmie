@@ -7,8 +7,6 @@
 📫 How to reach me:&nbsp;
 
 [![Linkedin: Albert Gierlach](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/)](https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/)&nbsp;
-[![Github: rivit98](https://img.shields.io/badge/-rivit98-blue?style=flat-square&logo=GitHub&logoColor=white&color=black&link=https://github.com/7elmie)](https://github.com/7elmie)
-
 <p>
 <img allign="right" src="https://github-readme-stats.vercel.app/api?username=7elmie&count_private=true&show_icons=true&theme=blueberry"/>
 </p>
