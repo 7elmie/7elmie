@@ -4,9 +4,8 @@
 
 
 🔒 Cyber Security Researcher / 💻 CTF player
-📫 How to reach me:&nbsp;
 
-[![Linkedin: Albert Gierlach](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/)](https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/)&nbsp;
+📫 How to reach me:&nbsp; [![Linkedin: Albert Gierlach](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/)](https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/)&nbsp;
 <p>
 <img allign="right" src="https://github-readme-stats.vercel.app/api?username=7elmie&count_private=true&show_icons=true&theme=blueberry"/>
 </p>
