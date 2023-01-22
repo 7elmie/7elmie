@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Egyptian+IT+Specialist.;Cyber+Security+Analyst;Cloud+Data+Engineer)](https://git.io/typing-svg)
 
-📫 Connect with me: 
+📫 Connect with me: <br>
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/HelmyBeh)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hel_lmYXX)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/) 
@@ -152,10 +152,9 @@
 <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=7elmie&theme=react-dark&hide_border=true" />
    </a>
-   <a>
-   <img alt="Activity Graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
-  </a>
-
+  
+  
+  
 
 
 ## Github Metrics
