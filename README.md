@@ -14,8 +14,10 @@
 > 
 
 - 🔭 I’m currently working ... on building a github portfolio
-- 🌱 I’m currently learning ... Networking CCNA, AWS, AZURE
+- 🌱 I’m currently learning ... Networking CCNA, AWS, AZURE, CYBERSECURITY
+
 - 💬 Ask me about anything, I am happy to help :smile:
+
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ I love connecting with different people :raised_hands:
 - 👀 I’m interested in CCNA, SAA, AZURE, GCP, CYBERSECURITY
@@ -24,11 +26,15 @@
 
 ## 🎧 Spotify Playing
 
-[![Top 50 Philippines](https://img.shields.io/badge/Top%2050%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY) [![Top 2021](https://img.shields.io/badge/Top%20%202021-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/06S64oWn7uGnfGrwjh5IWb) [![Love Song & Chill](https://img.shields.io/badge/Love%20Song%20&%20Chill-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v) [![Hot Hits Philippines](https://img.shields.io/badge/Hot%20Hits%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcZQSjptOQtk)
+[![Top 50 Philippines](https://img.shields.io/badge/%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZEVXbNBz9cRCSFkY) 
+[![Top 2021](https://img.shields.io/badge/Top%20%202021-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/06S64oWn7uGnfGrwjh5IWb) 
+[![Love Song & Chill](https://img.shields.io/badge/Love%20Song%20&%20Chill-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4QuJ2DbcTe7R8lzqfNXz7v) 
+[![Hot Hits Philippines](https://img.shields.io/badge/Hot%20Hits%20Philippines-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcZQSjptOQtk)
 
 [![Spotify](https://spotify-now-playing-1.vercel.app/api/spotify-playing)](https://open.spotify.com/user/21yk3oaoukqj62nfwxwhv26fq)
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
+
 <kbd>
    <kbd>Front-end</kbd>
     <br>
@@ -37,8 +43,9 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
+ </kbd>
+ 
+ <kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
