@@ -154,7 +154,7 @@
 
 <h2 align="left">⚡Activity Graph:</h2>
   <a>
-   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=larrymahumot&theme=react-dark&hide_border=true"/>
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=7elmie&theme=react-dark&hide_border=true"/>
    <img alt="Activity Graph" src="profile-3d-contrib/profile-night-rainbow.svg"/>
   </a>
 
