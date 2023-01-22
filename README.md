@@ -122,20 +122,6 @@
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 </p>
 
-##  **My Certifications 🏅**
-- [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/68f70689-6b23-4d5c-b5d5-8768b47c1a0c/public_url)
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/80dd022b-b671-41b4-9aa5-ea05208f90cf/public_url)
-- [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://www.credly.com/badges/d421b608-789d-4185-9a82-b1e6b0b2e8be/public_url)
-- [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/dbc71e69-fb2e-4434-95f9-c02e4e23c517/public_url)
-- See all my Certifications here [Credly](https://www.credly.com/users/larrymahumot)
-
-<p align="left">
-  <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="125" height="125">
-</p>
-
 
 ### :octocat: Profile Views
 
@@ -154,7 +140,9 @@
 
 <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=7elmie&theme=react-dark&hide_border=true" />
-    <img alt="Activity Graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
+   </a>
+   <a>
+   <img alt="Activity Graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
   </a>
 
 ## Github Metrics
