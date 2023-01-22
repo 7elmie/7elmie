@@ -140,9 +140,9 @@
 <div align="center">
 <p align="center">
 <a href="https://github.com/7elmie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=larrymahumot&layout=compact&langs_count=8&theme=react"/>
-  <img src="https://streak-stats.demolab.com?user=larrymahumot&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7elmie&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=7elmie&layout=compact&langs_count=8&theme=react"/>
+  <img src="https://streak-stats.demolab.com?user=7elmie&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
  </a>
 </p>
 </div>
