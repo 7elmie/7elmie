@@ -4,11 +4,10 @@
 
 📫 Connect with me:
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larrymahumot/) 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/larrymahumot) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larrymahumot/) 
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/larrymahumot) 
-[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/larrymahumot) 
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/HelmyBeh) 
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hel_lmYXX) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/) 
+
 
 > I'm a Egypation Network Engineer.
 > 
@@ -22,7 +21,7 @@
 - ⚡ I love connecting with different people :raised_hands:
 - 👀 I’m interested in CCNA, SAA, AZURE, GCP, CYBERSECURITY
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email: larrymahumot@gmail.com
+- 📫 How to reach me Email: w.wasd84@yahoo.com
 
 ## 🎧 Spotify Playing
 
