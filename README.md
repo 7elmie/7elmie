@@ -2,12 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Egyptian+IT+Specialist.;Cyber+Security+Analyst;Cloud+Data+Engineer)](https://git.io/typing-svg)
 
-📫 Connect with me: [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/HelmyBeh)[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hel_lmYXX)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/) 
+📫 Connect with me: 
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/HelmyBeh)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hel_lmYXX)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hellmy-2b56ab198/) 
 
 
 > I'm a Egypation Network Engineer.
 > 
-
 - 🔭 I’m currently working ... on building a github portfolio
 - 🌱 I’m currently learning ... Networking CCNA, AWS, AZURE, CYBERSECURITY
 
@@ -19,11 +21,17 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: w.wasd84@yahoo.com
 
+
+
+
 ## 🎧 Spotify Playing
+
 
 [![Spotify](https://spotify-now-playing-1.vercel.app/api/spotify-playing)](https://open.spotify.com/user/21yk3oaoukqj62nfwxwhv26fq)
 
+
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
+
 
 <kbd>
    <kbd>Front-end</kbd>
@@ -34,6 +42,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  </kbd>
+ 
  
  <kbd>
     <kbd>Back-end</kbd>
@@ -109,6 +118,8 @@
   <br/>
   <br/>
 
+
+
 ### 💻 Software and tools :
 
 <p>
@@ -116,6 +127,9 @@
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
 </p>
+
+
+
 
 
 ### :octocat: Profile Views
@@ -133,12 +147,16 @@
 </p>
 </div>
 
+
+
 <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=7elmie&theme=react-dark&hide_border=true" />
    </a>
    <a>
    <img alt="Activity Graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
   </a>
+
+
 
 ## Github Metrics
 <p align="center">
