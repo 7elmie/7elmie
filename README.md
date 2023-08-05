@@ -51,6 +51,7 @@ now I am studying in a cool and comfortable institution IT-Labs <a href=https://
 <p><b>Holopin Badges</b></p>
 
 [![An image of @cocomo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cocomo)](https://holopin.io/@cocomo)
+[![An image of @cocomo's information Security, which is a link to view their full Holopin profile](https://www.sfahat.com/uploads/covers/2019/04/d7b8497dd82b1687fc9fb592b1bf96b7eb1a71b8.jpg)](https://www.sfahat.com/uploads/covers/2019/04/d7b8497dd82b1687fc9fb592b1bf96b7eb1a71b8.jpg)
 
 <details>
 <summary><b>-_-</b></summary>
