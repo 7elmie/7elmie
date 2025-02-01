@@ -33,8 +33,6 @@ Tech I am using and learning:
 ![My Skills](https://skillicons.dev/icons?i=linux,python,flask,js,fastapi,bash,selenium,mysql,html,css,git,tailwind,cpp,github,qt,bootstrap,heroku,figma,firebase,replit,mongo,flutter,docker,react,vscode,django,neovim&theme=dark&perline=9)
 
 
-now I am studying in a cool and comfortable institution IT-Labs <a href=https://www.instagram.com/itlabs.uz/#>DSCUIT</a> , I want to express special gratitude to my unprepossessing teacher Mr Alisher <a href=https://www.instagram.com/alisheyx_life/#>DSCUIT</a>
-
 <details>
   <summary>More ⚡️</summary>
 <div align="center">
@@ -42,10 +40,10 @@ now I am studying in a cool and comfortable institution IT-Labs <a href=https://
 <p align="center"> 
 </br></br>
 <p><b>Profile Views</b></p>
- <img src="https://profile-counter.glitch.me/%7Bcocomo29%7D/count.svg"> </br></br>
+ <img src="https://profile-counter.glitch.me/%7B7elmie%7D/count.svg"> </br></br>
 <p><b>Github Stats</b></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=cocomo29&theme=midnight-purple"> </br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cocomo29&theme=midnight-purple"> </br></br>
+    <img src="https://github-readme-stats.vercel.app/api?username=7elmie&theme=midnight-purple"> </br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=7elmie&theme=midnight-purple"> </br></br>
 </p>
 
 <p><b>Holopin Badges</b></p>
