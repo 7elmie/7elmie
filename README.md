@@ -38,8 +38,6 @@ Tech I am using and learning:
 <!-- <p align="center"> 📊 My Github Stats</p> -->
 <p align="center"> 
 </br></br>
-<p><b>Profile Views</b></p>
- <img src="https://profile-counter.glitch.me/%7B7elmie%7D/count.svg"> </br></br>
 <p><b>Github Stats</b></p>
     <img src="https://github-readme-stats.vercel.app/api?username=7elmie&theme=midnight-purple"> </br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=7elmie&theme=midnight-purple"> </br></br>
