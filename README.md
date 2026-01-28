@@ -5,12 +5,13 @@
 
 # 🚀 About Me
 
-Mohammed HelmY, engineer of information and communication technology, specializing in networks.
-This is the field of study. As for the interests, I am dedicated to developing myself and working on them in the
-fields of networks, information security and cyber security, in addition to integrated systems, as well as the
-Internet of things and artificial intelligence, and how to benefit from it and integrate it in the various fields
-mentioned previously. To find out more, you can contact me through the contact information, or through the
-social media pages of course, I will be happy to do so.
+I am a cybersecurity specialist and ICT engineer with a strong foundation in network security, cryptographic systems, and emerging technologies. With over five years of experience in the fields of information and communication technology, I have applied my expertise across academic research, private sector initiatives, and national technology programs.
+
+Throughout my career, I have been actively involved in high-impact research and development projects. I currently serve as a Research Assistant at the Electronics Research Institute (ERI), where I contribute to the design and implementation of advanced cryptographic solutions, particularly in the domain of post-quantum encryption and IoT security protocols. In parallel, I have participated in interdisciplinary research with the Egyptian Authority for Remote Sensing and Space Sciences, where I supported cybersecurity assessments and protocol development for critical space-based technologies and infrastructure.
+
+My academic background includes a professional Bachelor’s degree in Information and Communication Technology with a specialization in networks. I am currently pursuing further postgraduate studies focused on cybercrime investigations, quantum cryptography, and digital forensics.
+
+My work has been recognized by national and international organizations including HackerOne, Almentor, and Egypt's leading research institutions. I am deeply committed to advancing cybersecurity education, promoting indigenous digital innovation, and supporting strategic collaborations that bridge research with real-world applications.
 
 
 
