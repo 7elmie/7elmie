@@ -28,8 +28,7 @@ My work has been recognized by national and international organizations includin
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ I love connecting with different people :raised_hands:
 - 👀 I’m interested in CCNA, Cyber Crime, CCNP, Cloud, All Programming Language,  AZURE, CYBERSECURITY and more 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email: w.wasd84@yahoo.com
+- 💞️ I’m looking to collaborate.
 
 Tech I am using and learning:
 ![My Skills](https://skillicons.dev/icons?i=linux,python,flask,js,fastapi,bash,selenium,mysql,html,css,git,tailwind,cpp,github,qt,bootstrap,heroku,figma,firebase,replit,mongo,flutter,docker,react,vscode,django,neovim&theme=dark&perline=9)
