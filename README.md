@@ -37,14 +37,6 @@ Tech I am using and learning:
 <details>
   <summary>More ⚡️</summary>
 <div align="center">
-<!-- <p align="center"> 📊 My Github Stats</p> -->
-<p align="center"> 
-</br></br>
-<p><b>Github Stats</b></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=7elmie&theme=midnight-purple"> </br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=7elmie&theme=midnight-purple"> </br></br>
-</p>
-
 <p><b>Holopin Badges</b></p>
 
 [![An image of @cocomo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cocomo)](https://holopin.io/@cocomo)
