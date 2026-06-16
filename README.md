@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7helmie-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7elmie/)
 [![GitHub](https://img.shields.io/badge/GitHub-7elmie-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7elmie)
 [![Twitter](https://img.shields.io/badge/Twitter-Hel__lmYXX-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hel_lmYXX)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohelmy@eri.sci.eg)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](moismail@dtu.edu.eg)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 🔬 About Me
 
-I am a **Quantum Cryptography Researcher** and **Founder & CEO of [The Metric](https://github.com/7elmie)** — a deep-tech startup focused on *Digital Sovereignty* and *Critical Infrastructure Security*. My work sits at the intersection of post-quantum cryptography, secure communication systems design, and applied quantum information theory.
+I am a **Quantum Cryptography Researcher** and **Founder & CEO of [The Metric](https://www.linkedin.com/company/metric1pan/)** — a deep-tech startup focused on *Digital Sovereignty* and *Critical Infrastructure Security*. My work sits at the intersection of post-quantum cryptography, secure communication systems design, and applied quantum information theory.
 
 **Current Roles:**
 - 🔭 **Research Assistant** — Electronics Research Institute (ERI), Egypt *(Applied Quantum Cryptography & PQC)*
