@@ -89,13 +89,7 @@ Penetration Testing        ████████████████░�
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=7elmie&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" />
-</div>
-
----
 
 ## 🏛️ Institutional Affiliations
 
